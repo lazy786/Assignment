@@ -1,4 +1,4 @@
 fun main() {
-    val coffeeShopName = "Starbuzz"
-    println("Welcome to $coffeeShopName!")
+    val welcomeMessage = "Latte!"
+    println("Enjoy Your $coffeeShopName!")
 }
